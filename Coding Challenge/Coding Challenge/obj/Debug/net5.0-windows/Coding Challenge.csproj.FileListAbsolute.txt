@@ -1,0 +1,88 @@
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Coding Challenge.exe
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Coding Challenge.deps.json
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Coding Challenge.runtimeconfig.json
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Coding Challenge.runtimeconfig.dev.json
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Coding Challenge.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\ref\Coding Challenge.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Coding Challenge.pdb
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding Challenge.csproj.GenerateResource.cache
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding Challenge.AssemblyInfoInputs.cache
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding Challenge.AssemblyInfo.cs
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding Challenge.csproj.CoreCompileInputs.cache
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding Challenge.dll
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\ref\Coding Challenge.dll
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding Challenge.pdb
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding Challenge.genruntimeconfig.cache
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding Challenge.csprojAssemblyReference.cache
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding_Challenge.QBuild.resources
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Antiforgery.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cors.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.DataProtection.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Localization.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Core.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.Razor.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Composite.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.Localization.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.Localization.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Extensions.WebEncoders.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Microsoft.Net.Http.Headers.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\code challenge\Coding Challenge\Coding Challenge\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\code challenge\Coding Challenge\Coding Challenge\obj\Debug\net5.0-windows\Coding Challenge.csproj.CopyComplete
